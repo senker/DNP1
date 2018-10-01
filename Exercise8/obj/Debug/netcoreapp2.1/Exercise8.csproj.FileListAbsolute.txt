@@ -1,0 +1,11 @@
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.csprojAssemblyReference.cache
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.AssemblyInfo.cs
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.deps.json
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.runtimeconfig.json
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.runtimeconfig.dev.json
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.dll
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\bin\Debug\netcoreapp2.1\Exercise8.pdb
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.dll
+C:\Users\Vladimir Rotaru\Documents\DNP1\Exercise8\obj\Debug\netcoreapp2.1\Exercise8.pdb
