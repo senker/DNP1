@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Vladimir Rotaru\\Documents\\DNP1\\Exercise2\\testClass2.csproj",
+      "projectUniqueName": "c:\\Users\\Vladimir Rotaru\\Documents\\DNP1\\Session1\\Exercise2\\testClass2.csproj",
       "projectName": "testClass2",
-      "projectPath": "c:\\Users\\Vladimir Rotaru\\Documents\\DNP1\\Exercise2\\testClass2.csproj",
+      "projectPath": "c:\\Users\\Vladimir Rotaru\\Documents\\DNP1\\Session1\\Exercise2\\testClass2.csproj",
       "packagesPath": "C:\\Users\\Vladimir Rotaru\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Vladimir Rotaru\\Documents\\DNP1\\Exercise2\\obj\\",
+      "outputPath": "c:\\Users\\Vladimir Rotaru\\Documents\\DNP1\\Session1\\Exercise2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
