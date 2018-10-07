@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-namespace Exercise2
+namespace Exercise3
 {
     class Company
     {

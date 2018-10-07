@@ -1,6 +1,6 @@
 using System;
 
-namespace Exercise2
+namespace Exercise3
 {
     public abstract class Employee
     {
